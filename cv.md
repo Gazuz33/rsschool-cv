@@ -29,3 +29,6 @@ JButton buttonReset = new JButton("Очистить поля");
  
  * **_Education:_**
   Lectures on **C++** and **Java** at a higher education institution. The **C++, Java, Html, Css** course in the "Sololearn" project.
+ * **_Learning English:_** B1-B2 level
+ 
+Participation in 2017, 2018 in the "Fantasy camp" project dedicated to improving intercultural communication and communication skills in English
