@@ -1,7 +1,7 @@
 Andrew Goncharow
 -------------
  *  **_My contacts:_**
- *  
+
  *Email:* a4tonetak@gmail.com
  
  *Telegram*: @Gazuzz
@@ -9,7 +9,7 @@ Andrew Goncharow
  
 I study at BSU at the Faculty of Radiophysics and Computer Technologies. My **goal** on this project is to try to reach a successful end, and even if I fail, I will get a tremendous experience for myself.
 
-**_Programming skills_:**
+* **_Programming skills_:**
 
 HTMl CSS C++ Java Git
 
@@ -25,3 +25,7 @@ JButton buttonReset = new JButton("Очистить поля");
 }
 });
 ```
+ * **_Work experience:_**
+ 
+ * **_Education:_**
+  Lectures on **C++** and **Java** at a higher education institution. The **C++, Java, Html, Css** course in the "Sololearn" project.
