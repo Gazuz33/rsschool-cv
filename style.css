@@ -23,8 +23,3 @@ ul {
  .link:hover {
    color: #8113EE;
  }
-
-pre:hover {
-  cursor: help;
-   font-size: 1.05em;
-}
