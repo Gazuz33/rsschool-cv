@@ -1,1 +1,8 @@
-{}
+header {
+  margin-left: 70px;
+  margin-top: 30px;
+  border: 1px solid green;
+  border-radius: 3px;
+  padding: 10px;
+  width: 20em;
+}
