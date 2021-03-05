@@ -5,4 +5,26 @@ header {
   border-radius: 3px;
   padding: 10px;
   width: 20em;
+  text-align: center;
+  cursor: default;
+}
+strong:hover {
+  text-decoration: underline;
+}
+ul {
+  padding-top: 30px;
+  padding-left: 80px;
+  font-size: 1.5em;
+  cursor: default;
+}
+ .link {
+   cursor: pointer;
+ }
+ .link:hover {
+   color: #8113EE;
+ }
+
+pre:hover {
+  cursor: help;
+   font-size: 1.05em;
 }
