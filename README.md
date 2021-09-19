@@ -1,1 +1,2 @@
-https://github.com/Gazuz33/rsschool-cv/blob/gh-pages/cv.md
+site deploy <br> 
+https://gazuz33-cv-deploy.netlify.app/
